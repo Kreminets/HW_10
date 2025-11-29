@@ -1,0 +1,184 @@
+    1  cd git
+    2  cd Git
+    3  cd desctop
+    4  cd desktop
+    5  cd Git
+    6  git config --global user.name "Kreminets Ihor"
+    7  git config --global user.email kreminets2000@gmail.com
+    8  git clone https://github.com/Kreminets/lesson3.1.git
+    9  cd HW_10
+   10  cd desctop
+   11  cd HW_1-
+   12  cd desktop
+   13  cd "HW_10"
+   14  cd 1
+   15  is
+   16  Is
+   17  IS
+   18  ls
+   19  dir
+   20  cd 
+   21  cd ~
+   22  cd desktop
+   23  sd 1
+   24  cd 1
+   25  .bash_history
+   26  clear
+   27  
+   28  clear
+   29  git clone 
+   30  clear
+   31  git config --uglobal user.name "Ihor kreminets"
+   32  `
+   33  ~
+   34  s
+   35  cd
+   36  git config --global user.name "Ihor kreminets"
+   37  git config --global user.email "kreminets2000@gmail.com"
+   38  git clone https//:github.com/Kreminets/HW_10.git
+   39  desktop
+   40  clean
+   41  clear
+   42  cd 1
+   43  clear
+   44  cd desktop
+   45  cd 1
+   46  gid clone https//:github.com/Kreminets/HW_10.git
+   47  git clone https//:github.com/Kreminets/HW_10.git
+   48  ~
+   49  cd ~
+   50  cd desktop
+   51  cd hw_10
+   52  git clone https//:github.com/Kreminets/HW_10.git
+   53  git config --global user.name "Ihor kreminets"
+   54  git config --global user.email "kreminets2000@gmail.com"
+   55  git clone https//:github.com/Kreminets/HW_10.git
+   56  git clone https//:github.com/Kreminets/lesson3.1.git
+   57  git config --global user.name "Ihor kreminets"
+   58  git config --global user.email "kreminets2000@gmail.com"
+   59  git clone https://github.com/Kreminets/HW_10.git
+   60  cd HW_10
+   61  touch text_ignore.txt
+   62  nano .gitignore
+   63  git statuse
+   64  git status
+   65  nano .gitignore
+   66  git status
+   67  gid add .gitignore
+   68  git add .gitignore
+   69  git add tex_ignore.txt
+   70  git status
+   71  git commit -m 
+   72  git vommit -m gitignore change
+   73  git commit -m "gitignore change"
+   74  touch main_test.txt
+   75  gid add main_test.txt
+   76  git add main_text.txt
+   77  git status
+   78  git add main_test.txt
+   79  git status
+   80  git add text_ignore.txt
+   81  git commit -m "add main_test.txt"
+   82  gt branch develop
+   83  git branch develop
+   84  git checkout branch_develop
+   85  git status
+   86  git checout -b branch_develop
+   87  git checkout -b branch_develop
+   88  git checkout develop
+   89  git status
+   90  touch develop_test.txt
+   91  gid add develop_test.txt
+   92  git add develop_test.txt
+   93  git commit -m "create and add develop_test.txt"
+   94  nano develop_test.txt
+   95  git status
+   96  git add develop_text.txt
+   97  git add develop_test.txt
+   98  git status
+   99  git commit -m "change develop_test.txt"
+  100  git checkout main
+  101  git merge develop
+  102  git log
+  103  history> comand_list.csv
+  104  git status
+  105  git add coand_list.csv
+  106  git status
+  107  git add comand_list.csv
+  108  git status
+  109  git status
+  110  git commit -m "create and add comand_list.csv"
+  111  git push
+  112  cd hw_10
+  113  cd desktop
+  114  cd hw_10
+  115  clear
+  116  git config --global user.name "Ihor kreminets"
+  117  git config --global user.email "kreminets2000@gmail.com"
+  118  git clone https://github.com/Kreminets/HW_10.git
+  119  cd HW_10
+  120  touch tex_ignore.txt
+  121  nano .gitignore
+  122  git status
+  123  ~
+  124  cd ~
+  125  CD 1
+  126  cd desktop
+  127  cd 1
+  128  clean
+  129  clear
+  130  git log
+  131  git log
+  132  clear
+  133  cd `
+  134  cd~
+  135  cd ~
+  136  cd 1
+  137  cd desktop
+  138  cd 1
+  139  git config --global user.name "Ihor kreminets"
+  140  git config --global user.email "kreminets2000@gmail.com"
+  141  git clone https://gitub.com/Kreminets/HW_10.git
+  142  git clone https://gitub.com/Kreminets/HW_10.git
+  143  git clone https://github.com/Kreminets/HW_10.git
+  144  cd HW_10
+  145  touch text_ignore.txt
+  146  nano .gitignore
+  147  git status
+  148  git add .gitignore
+  149  add text_ignore.txt
+  150  git add text_ignore.txt
+  151  git comit -m "create text_ignore.txt and change .gitignore"
+  152  git commit -m "create text_ignore.txt and change .gitignore"
+  153  touch main_text.txt
+  154  git add main_text.txt
+  155  nano main_text.txt
+  156  touch main_test.txt
+  157  add main_test.txt
+  158  git add main_test.txt
+  159  git commit -m "create main_test.txt"
+  160  git checkout -b branch_develop
+  161  git checkout branch_develop
+  162  touch develop_test.txt
+  163  git add develop_test.txt
+  164  git commit -m "create develop_test.txt"
+  165  nano "develop_test.txt
+nano "develop_test.txt
+  166  git status
+  167  git add develop_test.txt
+  168  git status
+  169  touch develop_test.txt
+  170  git add develop_test.txt
+  171  git commit -m "create develop_test.txt"
+  172  git status
+  173  nano develop_test.txt
+  174  git status
+  175  git add develop_test.txt
+  176  git commit -m "develop_test.txt modified"
+  177  git chekout branch_main
+  178  git checkout branch_main
+  179  git checkout main
+  180  git marge branch_develop
+  181  git merge branch_develop
+  182  git log
+  183  history>comand_list.csv
