@@ -182,3 +182,7 @@ nano "develop_test.txt
   181  git merge branch_develop
   182  git log
   183  history>comand_list.csv
+  184  git add comand_list.csv
+  185  git commit -m "create comand_list.csv"
+  186  git push
+  187  history>command_list.csv
